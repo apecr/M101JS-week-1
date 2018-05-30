@@ -1,0 +1,20 @@
+{
+  "headline": "Apple Reported Fourth Quarter Revenue Today",
+  "views": 1132,
+  "published": true,
+  "author": {
+    "name": "Bob Walker",
+    "title": "Lead Business Editor"
+  },
+  "tags": [
+    "AAPL",
+    {
+      "name": "city",
+      "value": "Cupertino"
+    },
+    [
+      "Electronics",
+      "Computers"
+    ]
+  ]
+}
